@@ -1,5 +1,6 @@
 # Serenade
-A self-hosted Discord music bot for YouTube made using Node.js.
+A self-hosted Discord music bot for YouTube made using Node.js.  
+After repeatedly dealing with unstable, broken, generally dysfunctional, and paywalled Discord bots just to be able to play YouTube audio in Discord, I decided to just make my own by using ffmpeg and youtube-dl. Ideally, this choice of technology should make it both easier to maintain as well as less likely to frequently break.
 
 ## Usage
 Playing/Enqueueing: ```!play <youtubeURL>```  
