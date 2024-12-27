@@ -2,8 +2,8 @@
 A Discord music bot for YouTube.
 
 ## Usage
-Playing/Enqueueing: ```!play <youtubeURL>```
-Skipping Queue: ```!skip```
+Playing/Enqueueing: ```!play <youtubeURL>```  
+Skipping Queue: ```!skip```  
 Disconnecting/Stopping: ```!stop```
 
 ## Config
