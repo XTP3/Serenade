@@ -7,6 +7,19 @@ Playing/Enqueueing: ```!play <youtubeURL>```
 Skipping Queue: ```!skip```  
 Disconnecting/Stopping: ```!stop```
 
+## Installation
+### Installer
+1. After installing Node.js, download the installer: [Installer](https://raw.githubusercontent.com/XTP3/Serenade/main/InstallSerenade.js)
+2. Place it within your primary installation directory, and run ```node InstallSerenade.js```.
+3. Run: ```node index.js```
+
+### Manual
+1. Clone the repo.
+2. Enter the directory with the project files.
+3. Install the necessary dependencies: ```npm install```
+4. Enter the ```Config.json``` file and modify as necessary.
+5. Run: ```node index.js```
+
 ## Config
 To use the bot, simply add your Discord bot token, located in the ```Config.json``` file under the key ```TOKEN```.
 Additionally, you can customize your command prefix character by modifying the value associated with the key ```PREFIX``` (set to '!' by default).
