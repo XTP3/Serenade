@@ -1,5 +1,5 @@
 # Serenade
-A self-hosted Discord music bot for YouTube made in Node.js.
+A self-hosted Discord music bot for YouTube made using Node.js.
 
 ## Usage
 Playing/Enqueueing: ```!play <youtubeURL>```  
