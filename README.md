@@ -9,7 +9,7 @@ Disconnecting/Stopping: ```!stop```
 
 ## Installation
 ### Installer
-1. After installing Node.js, download the installer: [[Installer](https://raw.githubusercontent.com/XTP3/Serenade/main/InstallSerenade.js)](https://github.com/XTP3/Serenade/releases/download/Installer/InstallSerenade.js)
+1. After installing Node.js, download the installer: [Installer](https://github.com/XTP3/Serenade/releases/download/Installer/InstallSerenade.js)
 2. Place it within your primary installation directory, and run ```node InstallSerenade.js```.
 3. Run: ```node index.js```
 
