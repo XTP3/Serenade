@@ -11,7 +11,7 @@
   "dependencies": {
     "discord.js": "^14.11.0",
     "@discordjs/voice": "^0.18.0",
-    "youtube-dl-exec": "^3.0.10",
+    "youtube-dl-exec": "^3.0.12",
     "ffmpeg-static": "^5.2.0" 
   }
 }
